@@ -11,7 +11,7 @@ namespace CRM
     {
         static void Main(string[] args)
         {
-            
+            UI.Run();
         }
     }
 }
